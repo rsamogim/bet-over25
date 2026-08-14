@@ -1,0 +1,7 @@
+shin
+scipy
+numpy
+requests
+python-dotenv
+tzdata
+pytest
